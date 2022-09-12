@@ -22,6 +22,9 @@ Save the file -->
 ![JuliaPhoto](JuliaPhoto.png) <!-- Question: why does this not work with resume/JuliaPhoto.png? -->
 
 ## Education
+### [*Columbia University*](https://www.columbia.edu)
+*In Progress*: Ph.D. in Chemical Oceanography, Department of Earth and Environmental Sciences
+
 ### [*Washington University in St. Louis*](https://wustl.edu) <!--To create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and then follow it immediately with the URL in parentheses (e.g., (https://duckduckgo.com)).-->
 B.S. Chemical Engineering
 > Minors in Energy Engineering, Environmental Engineering, and Psychology-Neuroscience-Psychology
@@ -45,9 +48,14 @@ Push your local resume repository to GitHub following the instructions.
 View your online resume at http://github.com/<your github username>/resume
 Finally, go back to the editor and add a new subsection called “Research Interests” to your Readme.md file. Update your local git repository and push your changes to GitHub. Verify that the remote repository is updated.
 
-To “hand in” this part of the assignment, put a link to it in the Readme.md file in the next part.
+To “hand in” this part of the assignment, put a link to it in the Readme.md file in the next part. -->
+## Research Interests
+## [*McKinley Ocean Carbon Group*](https://galenmckinley.github.io)
+Julia is a first-year PhD student in the McKinley group. Her research is conducted through the NSF-funded Learning the Earth through Artificial Intelligence and Physics (LEAP) center, where she utilizes machine learning to study ocean carbon uptake representations in the Community Earth System Model.
 
-Create your Assignments Repository
+General topics of interest include: chemical oceanography, machine learning, climate data sv
+
+<!--Create your Assignments Repository
 
 Now that you know how to create a git repository, you should create your assignments repository.
 
@@ -59,3 +67,7 @@ Create a new private repository on GitHub called rces-assignments. (Call it exac
 Push your rces-assignments repository to GitHub
 On GitHub, go to “settings” -> “collaborators” and add tjcrone and cjuang.
 Push new commits to this repository whenever you are ready to hand in your assignments
+git remote add origin https://github.com/juliasimpson97/resume.git
+git branch -M main
+git push -u origin main 
+git remote set-url origin git@github.com:juliasimpson97/resume.git then git remote -v
