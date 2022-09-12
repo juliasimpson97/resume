@@ -34,17 +34,10 @@ International Experience in Energy, Environmental, and Chemical Engineering
 
 <!--Now go back to the terminal and do the following:
 
-Initialize a new git repository in the resume directory
-Add the Readme.md file to the repository
-Create a new commit with a commit message
-Check the git log to see your commit history -->
-
-<!--Create a directory to contain the project.
-Go into the new directory. NOTE write line to make sure in, use cd resume and ls to print
-Type git init .
-Write some code.
-Type git add to add the files (see the typical use page).
-Type git commit .-->
+Initialize a new git repository in the resume directory: git init (after cd resume and ls to be sure in resume directory)
+Add the Readme.md file to the repository: git add 
+Create a new commit with a commit message: git commit GOT ERROR, had to write it config --global user.name "jls2391@columbia.edu" then just added test commit one to new screen, escape shift Z shift Z to exit
+Check the git log to see your commit history : git log, confirm worked, test commit one there--> 
 
 <!--
 Go to GitHub and create a new public repository entitled resume
