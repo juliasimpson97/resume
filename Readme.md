@@ -53,7 +53,7 @@ To “hand in” this part of the assignment, put a link to it in the Readme.md 
 ## [*McKinley Ocean Carbon Group*](https://galenmckinley.github.io)
 Julia is a first-year PhD student in the McKinley group. Her research is conducted through the NSF-funded Learning the Earth through Artificial Intelligence and Physics (LEAP) center, where she utilizes machine learning to study ocean carbon uptake representations in the Community Earth System Model.
 
-General topics of interest include: chemical oceanography, machine learning, climate data sv
+Her general topics of interest include: chemical oceanography, machine learning, climate data science, and air-sea interaction.
 
 <!--Create your Assignments Repository
 
