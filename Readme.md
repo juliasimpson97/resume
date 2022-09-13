@@ -73,7 +73,7 @@ Push your rces-assignments repository to GitHub :had to remove origin, using git
 On GitHub, go to “settings” -> “collaborators” and add tjcrone and cjuang.
 Push new commits to this repository whenever you are ready to hand in your assignments
 
-
+Other troubleshooting/directions from github:
 git remote add origin https://github.com/juliasimpson97/resume.git
 git branch -M main
 git push -u origin main 
