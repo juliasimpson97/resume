@@ -65,11 +65,11 @@ Create a new directory called rces-assignments in your home directory. : git ini
 Create a Readme.md markdown file that contains your name and a link to your “resume” repo.
 Initialize a new git repository
 git remote add origin git@github.com:juliasimpson97/rces-assignments.git
-git branch -M main : must use master ins
-git push -u origin main
+git branch -M main : must use master instead of main
+git push -u origin main :must use master instead of main
 Add the file and make your first commit
 Create a new private repository on GitHub called rces-assignments. (Call it exactly like that. Do not vary the spelling, capitalization, or punctuation.)
-Push your rces-assignments repository to GitHub
+Push your rces-assignments repository to GitHub :had to remove origin, using git remote remove origin, and confirm with git remote -v
 On GitHub, go to “settings” -> “collaborators” and add tjcrone and cjuang.
 Push new commits to this repository whenever you are ready to hand in your assignments
 
